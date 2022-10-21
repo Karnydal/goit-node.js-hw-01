@@ -33,9 +33,6 @@ async function removeContact(contactId) {
 }
 
 async function addContact(name, email, phone) {
-  if (!name || !email || !phone) {
-    return null;
-  }
   const newContact = {
     id: uuidv4(),
     name,

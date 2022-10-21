@@ -4,19 +4,19 @@
 
 node index.js --action="list"
 
-https://monosnap.com/file/agpiL7savf49DOAlHr8Vp99DKix654
+https://monosnap.com/file/iYB30Mj8qEYmni40bQJQgaprjLhXi5
 
 # Отримуємо контакт по id
 
 node index.js --action="get" --id=5
 
-https://monosnap.com/file/AtR8FvzmtiaeC1ge2nve41DXIgZd7X
+https://monosnap.com/file/MagJGKdbsdWFM9SFgmzgZeqrkeBICe
 
 # Додаємо контакт
 
 node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
 
-https://monosnap.com/file/8lmFs7JDmdqT4JOB5QQyYgLwYPoJ0c
+https://monosnap.com/file/dT8w5JEDsS0X7zsNm4Vh53xuKIA1Bi
 
 # Видаляємо контакт
 
